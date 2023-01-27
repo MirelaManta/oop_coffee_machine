@@ -1,0 +1,1 @@
+This is the OOP standpoint approach for the coffee machine program found within coffee_machine repository.
